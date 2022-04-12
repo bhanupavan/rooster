@@ -56,7 +56,7 @@ gem 'capistrano-bundler', '~> 1.1.2'
 gem 'sprockets', '~> 2.8'
 
 # Barebones two-factor authentication with Devise
-gem 'devise-two-factor', '~> 1.1'
+gem 'devise-two-factor', '~> 2.2'
 # Flexible authentication solution for Rails with Warden
 gem 'devise'
 
